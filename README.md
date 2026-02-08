@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Rafael Passos
 
-<!--
-**rapassos/rapassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Infraestrutura | 15+ anos em TI | Especialista em Linux & Windows Server**
 
-Here are some ideas to get you started:
+## 🎯 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profissional de TI com sólida experiência em infraestrutura, suporte técnico e administração de sistemas em ambientes corporativos de grande porte (WEG Equipamentos Elétricos - 13 anos, CIE Autometal).
+
+Atualmente expandindo competências em:
+- ☁️ **Cloud Computing** (Azure)
+- 🐍 **Python** para automação de infraestrutura
+- 🔄 **DevOps** e CI/CD
+- 🐳 **Containerização** (Docker)
+
+## 💼 Experiência Atual
+
+**Planejador de Produção** @ CIE Autometal (2023-presente)
+- Planejamento e controle de produção
+- Análise de dados e KPIs
+- Interface entre áreas técnicas e operacionais
+
+**Histórico em TI:**
+- 13 anos na WEG como Suporte Técnico e Planejamento de Manutenção
+- Especialização em Linux (Ubuntu, Debian, Arch)
+- Gestão de infraestrutura de rede e cabeamento estruturado
+- Administração de sistemas Windows/Linux
+
+## 🛠️ Stack Tecnológico
+
+### Infraestrutura
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0066CC?style=for-the-badge)
+
+### Desenvolvimento e Automação
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+### Estudando
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapassos&show_icons=true&theme=tokyonight)
+
+## 🎓 Formação e Certificações
+
+- 🎓 **Bacharel em Ciência da Computação** - Universidade Guarulhos
+- 🎓 **Técnico em Informática** - Colégio Central
+- ✅ Linux System Administration
+- ✅ Azure Fundamentals
+- ✅ Cloud Computing & Serverless (DIO)
+- ✅ Cabeamento Estruturado
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rapassos)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rapassos@gmail.com)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/rapassos)
+
+---
+
+💡 **Atualmente explorando oportunidades** em DevOps, Cloud Engineering e Arquitetura de Infraestrutura
