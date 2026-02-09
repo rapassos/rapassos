@@ -44,7 +44,7 @@ Atualmente expandindo competências em:
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapassos&show_icons=true&theme=tokyonight)
+![Rafael's GitHub stats](https://streak-stats.demolab.com?user=rapassos&theme=tokyonight&locale=pt_BR)
 
 ## 🎓 Formação e Certificações
 
