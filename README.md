@@ -4,7 +4,9 @@
 
 ## 🎯 Sobre Mim
 
-Profissional de TI com sólida experiência em infraestrutura, suporte técnico e administração de sistemas em ambientes corporativos de grande porte (WEG Equipamentos Elétricos - 13 anos, CIE Autometal).
+Profissional de TI com **mais de 15 anos de experiência** em infraestrutura, suporte técnico e administração de sistemas em ambientes corporativos de grande porte.
+
+**Empresas:** WEG Equipamentos Elétricos (13 anos), CIE Autometal (atual)
 
 Atualmente expandindo competências em:
 - ☁️ **Cloud Computing** (Azure)
@@ -19,11 +21,13 @@ Atualmente expandindo competências em:
 - Análise de dados e KPIs
 - Interface entre áreas técnicas e operacionais
 
+> 💡 **Nota:** Após 13 anos em TI, estou aplicando conhecimento técnico em otimização de processos industriais, mas mantenho forte interesse em retornar à área de infraestrutura/DevOps em posições mais estratégicas.
+
 **Histórico em TI:**
-- 13 anos na WEG como Suporte Técnico e Planejamento de Manutenção
-- Especialização em Linux (Ubuntu, Debian, Arch)
+- **13 anos na WEG** como Suporte Técnico e Planejamento de Manutenção
+- Especialização em **Linux** (Ubuntu, Debian, Arch) e **Windows Server**
 - Gestão de infraestrutura de rede e cabeamento estruturado
-- Administração de sistemas Windows/Linux
+- Administração de **100+ estações** e **4 servidores**
 
 ## 🛠️ Stack Tecnológico
 
@@ -55,12 +59,10 @@ Atualmente expandindo competências em:
 - ✅ Cloud Computing & Serverless (DIO)
 - ✅ Cabeamento Estruturado
 
-## 📫 Contato
+## 📧 Contato
+
+💡 **Aberto a oportunidades em:** DevOps Engineering, Cloud Infrastructure, SRE, Arquitetura de Infraestrutura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/rapassos)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rapassos@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/rapassos)
-
----
-
-💡 **Atualmente explorando oportunidades** em DevOps, Cloud Engineering e Arquitetura de Infraestrutura
