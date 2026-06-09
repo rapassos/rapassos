@@ -1,72 +1,72 @@
 # 👋 Olá! Eu sou Rafael Passos
 
-**Full-Stack Developer | Python • Java • JavaScript | Cloud & Infrastructure**
+**Backend Software Engineer | Java & Spring Boot • Python & Data Science | Especialista em PCP & Sistemas ERP**
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor Full-Stack com sólida base em infraestrutura de TI (15+ anos), combinando habilidades de desenvolvimento com conhecimento profundo de sistemas, redes e cloud computing.
+Engenheiro de Software com uma trajetória sólida de mais de 15 anos construída na interseção entre **tecnologia de infraestrutura, dados e operações industriais complexas** (com passagens consolidadas em grandes players como **WEG** e **Autometal**). 
 
-**Transição de carreira:** De Analista de Infraestrutura para Desenvolvedor Full-Stack, trazendo perspectiva única sobre performance, escalabilidade e DevOps.
+Hoje, atuo no desenvolvimento de soluções backend robustas e inteligência de dados, traduzindo regras de negócio complexas de manufatura, planejamento (PCP/MRP) e supply chain em arquiteturas de software eficientes, escaláveis e de alta performance.
 
 Atualmente focando em:
-- 🐍 **Python** (Django/Flask para backend)
-- ☕ **Java** (Spring Boot, APIs REST)
-- ⚛️ **JavaScript** (Vue.js, Node.js)
-- ☁️ **Cloud Native** (Azure, Docker, CI/CD)
+- ☕ **Java & Spring Boot** (APIs REST, Monolitos Modulares, Spring Data JPA, Segurança)
+- 🐍 **Python & Data Science** (Análise de dados operacionais, automação de processos e relatórios preditivos)
+- 📊 **Sistemas Corporativos & ERP** (Vivência consolidada em ERP Datasul/TOTVS e especialização ativa em SAP MM)
+- ☁️ **Cloud & DevOps Mindset** (Docker, Banco de Dados Relacionais, CI/CD e Administração Linux)
 
-## 💼 Experiência
+---
 
-**Background Profissional:**
-- 13 anos na WEG Equipamentos Elétricos (Infraestrutura de TI)
-- 2+ anos na CIE Autometal (Planejamento de Produção)
-- Transição ativa para desenvolvimento full-stack
+## 🚀 Projeto em Destaque
 
-**O que isso significa para desenvolvimento:**
-- Entendo **performance** e **otimização** de aplicações
-- Sei fazer **deploy real** e manter sistemas em produção
-- Experiência com **troubleshooting** e **debugging** complexo
-- Conhecimento de **redes**, **bancos de dados** e **segurança**
+### 🛠️ [Smart Production Planner](https://github.com/rapassos) — *Em Desenvolvimento Ativo*
+Sistema proprietário focado em simulação de capacidade crítica, programação avançada de recursos industriais e automação da tomada de decisão operacional para o chão de fábrica.
+* **Arquitetura e Tecnologias:** Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL, Docker e JUnit.
+* **Diferencial Técnico:** Desenvolvido sob o padrão de **Monolito Modular** para garantir baixo acoplamento e isolamento de domínios (PCP/Materiais), com decisões de design rigorosamente documentadas via **ADRs** (Architectural Decision Records).
+
+---
 
 ## 🛠️ Stack Tecnológico
 
-### Backend
+### Backend & Data Science
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
+### Bancos de Dados & Infraestrutura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Estudando
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### Frontend (Suporte)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Expandindo Conhecimento
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## 🚀 Projetos em Destaque
+---
 
-### Desenvolvimento
-- 🎮 **[Jogo da Forca](https://github.com/rapassos/Fabrica-de-Cultura-4.0_TCC)** - JavaScript puro, lógica de jogo | [Demo ao vivo](https://fabrica-de-cultura-4-0-tcc-71fa46.gitlab.io/)
-- 📝 **[Todo List Vue.js](https://github.com/rapassos/DIO-vuejs-todolist-swa)** - Vue.js + Azure Static Web Apps + CI/CD
-- 🦀 **[Rust Learning Path](https://github.com/rapassos/learn-Rust)** - Estudos de systems programming
+## 💼 Histórico de Impacto
 
-### Infraestrutura & Automação
-- 🔧 **[Infrastructure Scripts](https://github.com/rapassos/infrastructure-automation-scripts)** - 15+ anos de automação em produção
-- 🔌 **[Portas Lógicas](https://github.com/rapassos/portasLogicas)** - Python, lógica booleana
+* **13 anos na WEG Equipamentos Elétricos:** Atuação em TI Industrial e Planejamento de Manutenção. Liderança em projetos de infraestrutura com redução de custos (>50% em eficiência energética), sustentação de ambientes críticos (200-300 usuários) e desenvolvimento de sistemas internos para transferência de programas CNC, otimizando o setup de fábrica.
+* **2+ anos na CIE Autometal:** Atuação estratégica em Planejamento e Controle da Produção (PCP), coordenando a capacidade de 19 máquinas injetoras, linhas de pintura e montagem via ERP Datasul (TOTVS), além de automação de rotinas de dados e análise de indicadores industriais (OEE).
+
+---
+
+## 💡 Diferenciais como Engenheiro de Software
+
+1. **Visão de Negócio Industrial (Domain-Driven Mindset):** Eu entendo o fluxo real do chão de fábrica, cadeias de suprimentos e as dores de sistemas MRP. Meu código é escrito para resolver gargalos reais de negócios.
+2. **Arquitetura Voltada à Eficiência (OEE do Código):** Minha bagagem em infraestrutura e automação fabril me traz uma obsessão natural por performance, consumo de recursos, debugging complexo e deploys resilientes.
+3. **Data-Driven & Automação:** Experiência prática limpando e estruturando dados operacionais para mitigar falhas humanas e gerar relatórios de apoio à tomada de decisão executiva.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -74,38 +74,22 @@ Atualmente focando em:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rapassos&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html)
 
+---
+
 ## 🎓 Formação & Certificações
 
 ### Formação
-- 🎓 **Bacharel em Ciência da Computação** - Universidade Guarulhos
-- 🎓 **Técnico em Informática** - Colégio Central
+* 🎓 **Bacharel em Ciência da Computação** — Universidade Guarulhos
+* 🎓 **Técnico em Informática e Redes** — Colégio Central
 
-### Certificações & Cursos
-- ✅ Azure Fundamentals
-- ✅ Cloud Computing & Serverless (DIO)
-- ✅ Linux System Administration
-- ✅ Bootcamp Suzano Python Developer
-- ✅ CS50 - Harvard (em andamento)
-- 📚 The Rust Programming Language Book (Cap. 1-3)
+### Certificações & Cursos em Destaque
+* 🛠️ Formação em Desenvolvimento Java & Spring Boot (*Em andamento*)
+* 📦 SAP MM & SAP Fundamentals (*Em andamento - Training Education*)
+* ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+* 🐧 Linux System Administration & Automação de Scripts
+* 🛡️ Desenvolvimento de Software com Azure Static Web Apps e GitHub Actions
 
-## 🌱 Aprendizado Contínuo
-
-Atualmente estudando:
-- **Django REST Framework** para APIs robustas
-- **Spring Boot** para aplicações Java enterprise
-- **Docker & Kubernetes** para containerização
-- **Padrões de design** e arquitetura de software
-- **TDD** (Test-Driven Development)
-
-## 💡 Diferenciais
-
-**Por que contratar um desenvolvedor com background em infraestrutura?**
-
-1. **Código otimizado** - Entendo o que acontece "por baixo dos panos"
-2. **Deploy-friendly** - Sei escrever código fácil de fazer deploy e manter
-3. **Troubleshooting** - Depuro problemas em toda a stack (código + infra)
-4. **Segurança** - Conhecimento profundo de redes e segurança
-5. **DevOps mindset** - Penso em CI/CD desde o início do projeto
+---
 
 ## 📫 Contato
 
@@ -114,5 +98,4 @@ Atualmente estudando:
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rapassos)
 
 ---
-
-💼 **Aberto a oportunidades** em desenvolvimento Full-Stack (Python/Java), DevOps Engineering e posições que valorizem a combinação de desenvolvimento + infraestrutura
+💼 **Disponível para oportunidades** em Engenharia de Software Backend (Java / Python), posições focadas em Data Solutions industriais, ou posições corporativas que valorizem a sinergia entre engenharia de software e profundo conhecimento em ecossistemas ERP/PCP.
