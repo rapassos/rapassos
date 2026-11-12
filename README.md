@@ -111,6 +111,8 @@ Sistema proprietário focado em simulação de capacidade crítica, programaçã
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rapassos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapassos@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/rapassos)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rapassos)
+
 
 ---
 💼 **Disponível para oportunidades** em Engenharia de Software Backend (Java / Python), posições focadas em Data Solutions industriais, ou posições corporativas que valorizem a sinergia entre engenharia de software e profundo conhecimento em ecossistemas ERP/PCP.
