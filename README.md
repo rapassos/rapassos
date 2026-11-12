@@ -57,6 +57,7 @@ Sistema proprietário focado em simulação de capacidade crítica, programaçã
 | :--- | :--- | :--- |
 | Bootcamp Suzano Python Developer - DIO | [GitLab](https://gitlab.com/rapassos/DIO-bootcampSuzanoPythonDeveloper) | Repositório do Bootcamp - Suzano - Python Developer |
 | Construindo páginas para a internet com Bootstrap - DIO | [GitLab](https://gitlab.com/rapassos/DIO-construindoPaginasParaInternetComBootstrap) | Repositório do Curso - Construindo páginas para internet com Bootstrap |
+| Curso C - Programação Descomplicada | [GitLab](https://gitlab.com/rapassos/cursoC) | Repositório do curso Linguagem C Descomplicada |
 | Desafio - Criando um sistema bancário com python | [GitLab](https://gitlab.com/rapassos/DIO-desafioCriandoUmSistemaBancarioComPython) | 3 versões evolutivas |
 | Introdução ao Git e Github - DIO | [GitLab](https://gitlab.com/rapassos/DIO-introducaoAoGitEGithub) | Repositório do curso de introdução ao git e github (neste caso Gitlab) |
 | Introdução ao PHP Moderno - DIO | [GitLab](https://gitlab.com/rapassos/DIO-introducaoAoPhpModerno) | Repositório do curso básico de introdução ao PHP moderno - POO, Composer e boas práticas |
@@ -64,8 +65,6 @@ Sistema proprietário focado em simulação de capacidade crítica, programaçã
 | Laboratório Open Source - DIO | [GitHub](https://github.com/rapassos/dio-lab-open-source) | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" |
 | Programação para Internet com Javascript - DIO | [GitLab](https://gitlab.com/rapassos/DIO-programacaoParaInternetComJavascript) | - |
 | Trilha Python Dio (Fork) - DIO | [GitLab](https://gitlab.com/rapassos/DIO-trilhaPythonDioFork) | Fork da trilha Python da DIO - Material de referência e exercícios |
-
-
 
 ---
 
