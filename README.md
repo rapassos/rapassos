@@ -51,6 +51,22 @@ Sistema proprietário focado em simulação de capacidade crítica, programaçã
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+### Lista de Repositórios
+
+| Repo | Link | Obs |
+| :--- | :--- | :--- |
+| Bootcamp Suzano Python Developer - DIO | [GitLab](https://gitlab.com) | Repositório do Bootcamp - Suzano - Python Developer |
+| Construindo páginas para a internet com Bootstrap - DIO | [GitLab](https://gitlab.com) | Repositório do Curso - Construindo páginas para internet com Bootstrap |
+| Desafio - Criando um sistema bancário com python | [GitLab](https://gitlab.com) | 3 versões evolutivas |
+| Introdução ao Git e Github - DIO | [GitLab](https://gitlab.com) | Repositório do curso de introdução ao git e github (neste caso Gitlab) |
+| Introdução ao PHP Moderno - DIO | [GitLab](https://gitlab.com) | Repositório do curso básico de introdução ao PHP moderno - POO, Composer e boas práticas |
+| Javascript ES6 Essencial - DIO | [GitLab](https://gitlab.com) | Repositório do curso de Javascript padrão ES6 |
+| Laboratório Open Source - DIO | [GitHub](https://github.com) | Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" |
+| Programação para Internet com Javascript - DIO | [GitLab](https://gitlab.com) | - |
+| Trilha Python Dio (Fork) - DIO | [GitLab](https://gitlab.com) | Fork da trilha Python da DIO - Material de referência e exercícios |
+
+
+
 ---
 
 ## 💼 Histórico de Impacto
